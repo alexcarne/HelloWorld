@@ -12,7 +12,7 @@ import android.widget.TextView;
  *     <li>Se ha visto se crean los recursos en XML</li>
  *     <li>Se ha instancia en Java un Objeto TextView</li>
  *     <li>Se ha personalizada la imagen de la aplicación</li>
- * </ol>e
+ * </ol>
  * */
 public class MainActivity extends AppCompatActivity {
     private TextView tvMessageStart;
