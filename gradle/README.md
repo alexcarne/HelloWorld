@@ -9,7 +9,7 @@ Mi primer proyecto en Android studio en Java.
 ***
 En este proyecto hemos aprendido las nociones basicós de como manejar Android studio .
 ### Screenshot
-![Captura del proyecto en ejecución en una maquina virtual de android.](/master/Android.png)
+![Captura del proyecto en ejecución en una maquina virtual de android.](https://github.com/alexcarne/HelloWorld/blob/master/Android.png)
 ## Issues
 ***
 A la hora de crear un javadoc es necesario añadir una libreria  pero al añadirla da error el proyecto por eso esta comentada.
